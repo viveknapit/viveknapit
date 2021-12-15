@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java langauge
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me contact on linked in 
+- 📫 How to reach me contact on linkedin through https://www.linkedin.com/in/viveknapit/
 
 <!---
 viveknapit/viveknapit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
