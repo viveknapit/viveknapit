@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viveknapit
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java langauge
+- 🌱 I’m currently practicing DSA
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me contact on linkedin through https://www.linkedin.com/in/viveknapit/
 - 📫 or follow me on instagram  https://www.instagram.com/viveknapit1/
